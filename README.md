@@ -14,7 +14,6 @@ Designing and operating resilient infrastructure for manufacturing environments 
 
 - AWS Certified Solutions Architect – Associate (SAA-C03) — 2026
 - Cisco CCNA — 2023
-- VMware vSphere optimization and troubleshooting
 
 ## 🔨 Current Focus
 
