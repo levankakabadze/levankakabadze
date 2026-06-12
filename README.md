@@ -1,16 +1,22 @@
-## Hi there 👋
+# Levan Kakabadze — IT Infrastructure Architect
 
-<!--
-**levankakabadze/levankakabadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Designing and operating resilient infrastructure for manufacturing environments across 25+ sites in Europe and Mexico.
 
-Here are some ideas to get you started:
+## 🏭 What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Dual-datacenter VMware environments** — ESXi 8, vCenter, vDS, HA/DRS clusters
+- **Storage architecture** — Dell PowerStore 500T, synchronous block replication, HBA/iSCSI, NMP path policy
+- **Disaster Recovery** — PowerStore replication + Veeam CDP, tested failover & rollback procedures
+- **Network design** — Cisco Catalyst (9300L/9200L), FortiGate HA, VLAN segmentation, inter-DC trunking
+- **Infrastructure as Code** — Terraform (vSphere provider), currently building toward Terraform Associate 004
+
+## 📜 Certifications
+
+- AWS Certified Solutions Architect – Associate (SAA-C03) — 2026
+- Cisco CCNA — 2023
+
+## 🔨 Current Focus
+
+Building a public reference architecture for a dual-MDC manufacturing plant infrastructure — VMware, Dell PowerStore, Cisco switching, FortiGate, and Terraform as code.
+
+## 🌍 Based in Valencia, Spain — open to remote roles across Europe
