@@ -20,4 +20,4 @@ Designing and operating resilient infrastructure for manufacturing environments 
 
 Building a public reference architecture for a dual-MDC manufacturing plant infrastructure — VMware, Dell PowerStore, Cisco switching, FortiGate, and Terraform as code.
 
-## 🌍 Based in Valencia, Spain — open to remote roles across Europe
+## 🌍 Based in Valencia, Spain
