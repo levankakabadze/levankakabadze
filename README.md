@@ -13,6 +13,7 @@ Designing and operating resilient infrastructure for manufacturing environments 
 ## 📜 Certifications
 
 - AWS Certified Solutions Architect – Associate (SAA-C03) — 2026
+- HashiCorp Certified: Terraform Associate (004)
 - Cisco CCNA — 2023
 
 ## 🔨 Current Focus
